@@ -1,0 +1,7 @@
+.signup__bg--container {
+    background-image: url('../images/wolverine.png');
+    background-size: 70% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+}

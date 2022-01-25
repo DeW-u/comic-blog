@@ -1,0 +1,13 @@
+.wrapper {
+    padding: 1rem;
+    border: 2px solid #ffcd39;
+    border-radius: 4px;
+    padding-bottom: 50px;
+    background-color: #262626;
+	color: #ffcd39
+}
+
+.editor {
+    min-height: 250px;
+    padding: 1rem;
+}

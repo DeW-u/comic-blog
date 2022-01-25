@@ -1,0 +1,7 @@
+.notfound__bg--container {
+    background-image: url('../images/dead.png');
+    background-size: 33% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+}
