@@ -15,7 +15,7 @@ function Login() {
 			if (!error) {
 				navigate("/");
 			} else {
-				alert("Niepoprawny email lub hasło!");
+				alert("Niepoprawny email lub hasło!\n\n(Jeśli uważasz inaczej sprawdź poprawność adresu email)");
 			}
 		});
 	}
