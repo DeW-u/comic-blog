@@ -1,3 +1,13 @@
+# Instrukcja uruchomienia
+Należy uruchomić dwa terminale, w jednym przejść do "/comic-blog/", w drugim do 
+"/comic-blog/backend/".
+
+Następnie w obu folderach uruchomić instrukcję "npm install".
+
+Po zainstalowaniu niezbędnych modułów ->
+1. W "/comic-blog/backend/" uruchomić komendę "npm run dev".
+2. W "/comic-blog/" uruchomić komendę "npm start".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
